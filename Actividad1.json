@@ -1,0 +1,57 @@
+{
+    "estudiantes": [
+      {
+        "nombre": "Juan Perez",
+        "edad": 18,
+        "asignaturas": [
+          {
+            "nombre": "Matemáticas",
+            "calificacion": 9.0
+          },
+          {
+            "nombre": "Historia",
+            "calificacion": 8.5
+          }
+        ]
+      },
+      {
+        "nombre": "Ana Rodriguez",
+        "edad": 17,
+        "asignaturas": [
+          {
+            "nombre": "Biología",
+            "calificacion": 8.8
+          },
+          {
+            "nombre": "Química",
+            "calificacion": 9.2
+          }
+        ]
+      }
+    ],
+    "profesores": [
+      {
+        "nombre": "Profesor Martínez",
+        "asignaturas": [
+          {
+            "nombre": "Matemáticas",
+            "creditos": 4
+          }
+        ]
+      },
+      {
+        "nombre": "Profesora García",
+        "asignaturas": [
+          {
+            "nombre": "Historia",
+            "creditos": 3
+          },
+          {
+            "nombre": "Biología",
+            "creditos": 4
+          }
+        ]
+      }
+    ]
+  }
+  

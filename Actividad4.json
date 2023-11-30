@@ -1,0 +1,54 @@
+{
+    "empleados": [
+      {
+        "nombre": "Juan Pérez",
+        "edad": 30,
+        "cargo": "Desarrollador Senior",
+        "salario": 80000,
+        "proyectos": [
+          {
+            "nombre": "Sistema de Gestión de Inventarios",
+            "fecha_inicio": "2023-01-15",
+            "tareas": ["Desarrollo de la interfaz de usuario", "Implementación de la lógica de negocio"]
+          },
+          {
+            "nombre": "Plataforma de E-Commerce",
+            "fecha_inicio": "2022-09-05",
+            "tareas": ["Integración de pasarela de pago", "Optimización de rendimiento"]
+          }
+        ]
+      },
+      {
+        "nombre": "Ana Gómez",
+        "edad": 28,
+        "cargo": "Analista de Calidad",
+        "salario": 70000,
+        "proyectos": [
+          {
+            "nombre": "Mejora de Procesos Internos",
+            "fecha_inicio": "2023-03-10",
+            "tareas": ["Evaluación de la calidad del código", "Implementación de prácticas ágiles"]
+          }
+        ]
+      },
+      {
+        "nombre": "Carlos Martínez",
+        "edad": 35,
+        "cargo": "Gerente de Proyecto",
+        "salario": 90000,
+        "proyectos": [
+          {
+            "nombre": "Lanzamiento de Producto X",
+            "fecha_inicio": "2022-11-20",
+            "tareas": ["Planificación del proyecto", "Coordinación de equipos"]
+          },
+          {
+            "nombre": "Desarrollo de Nueva Funcionalidad",
+            "fecha_inicio": "2023-02-05",
+            "tareas": ["Definición de requisitos", "Seguimiento del progreso"]
+          }
+        ]
+      }
+    ]
+  }
+  
